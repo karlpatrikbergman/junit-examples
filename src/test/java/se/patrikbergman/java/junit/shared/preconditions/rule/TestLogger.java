@@ -6,7 +6,6 @@ import org.junit.runners.model.Statement;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
 public class TestLogger implements TestRule {
 
     Logger logger;
