@@ -1,4 +1,4 @@
-package se.patrikbergman.java.junit;
+package se.patrikbergman.java.junit.shared.preconditions;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Rule;

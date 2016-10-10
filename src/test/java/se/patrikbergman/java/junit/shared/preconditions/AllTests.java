@@ -1,4 +1,4 @@
-package se.patrikbergman.java.junit;
+package se.patrikbergman.java.junit.shared.preconditions;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

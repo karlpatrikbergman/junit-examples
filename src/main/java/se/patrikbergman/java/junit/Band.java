@@ -1,12 +1,13 @@
 package se.patrikbergman.java.junit;
 
 import lombok.Builder;
-import lombok.Data;
+import lombok.Value;
 
+@Value
 @Builder
-@Data
-class Band {
+public class Band {
     private String name;
     private int yearsActive;
     private boolean isActive;
+    private int rockfactor;
 }

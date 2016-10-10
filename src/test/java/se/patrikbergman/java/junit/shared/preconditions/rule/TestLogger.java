@@ -1,4 +1,4 @@
-package se.patrikbergman.java.junit.rule;
+package se.patrikbergman.java.junit.shared.preconditions.rule;
 
 import org.junit.rules.TestRule;
 import org.junit.runner.Description;

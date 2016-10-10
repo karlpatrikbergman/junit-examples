@@ -9,7 +9,7 @@
         </encoder>
     </appender>
 
-    <logger name="se.patrikbergman.java.junit.slf4j.logback" level="INFO" />
+    <logger name="se.patrikbergman.java.junit.slf4j.logback" level="DEBUG"/>
 
     <!-- By default, the level of the root level is set to DEBUG -->
     <root level="DEBUG">
